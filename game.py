@@ -1,4 +1,3 @@
-#something to write about
 
 def isWordGuessed(secretWord, lettersGuessed):
     '''
