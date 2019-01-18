@@ -9,3 +9,5 @@ attempts he has and the word he created so far.
 Each correct guess will not reduce the number of attempts left.
 
 For each wrong guess, a penalty will be given by reducing number of chances.
+
+testing123
