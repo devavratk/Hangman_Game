@@ -7,12 +7,12 @@ On every guess, program will tell the player whether the character is in the sec
 For each wrong guess, a penalty will be given by reducing number of chances (In java implementation, a hangman is drawn on the screen with its condition to be hanged)</br>
 Codes are performed in Java as well as in Python.
 
-Python implementation files
--
-game.py, helper_functions.py, words.txt
-
 Java implementation files
 -
 Hangman-Java.java, Hangman_word_list.txt
+
+Python implementation files
+-
+game.py, helper_functions.py, words.txt
 
 Enjoy!!
