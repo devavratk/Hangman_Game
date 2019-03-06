@@ -1,11 +1,18 @@
-Hangman game is used for childrens to help them understand words spellings
+Hangman
+-
+This is a game majorly used for children to help them learn spellings of words</br>
+Steps -</br>
+We pick a random word from words.txt file as the secret word for the game. Players are shown the length of characters present in secret word. They will have specific number of chances for guessing letters in the word.
+On every guess, program will tell the player whether the character is in the secret word or not. if yes, we place it on its appropriate blank position and show players how many attempts they have left and the word they created so far.</br>
+For each wrong guess, a penalty will be given by reducing number of chances (In java implementation, a hangman is drawn on the screen with its condition to be hanged)</br>
+Codes are performed in Java as well as in Python.
 
-We take a random word as our secret word of some length from words.txt file
+Python implementation files
+-
+game.py, helper_functions.py, words.txt
 
-Then we give users option of choosing a letter.
-Then computer will tell the user whether the word is in the secret word
-We will place it on its appropriate position in word and show user how many
-attempts he has and the word he created so far.
-Each correct guess will not reduce the number of attempts left.
+Java implementation files
+-
+Hangman-Java.java, Hangman_word_list.txt
 
-For each wrong guess, a penalty will be given by reducing number of chances.
+Enjoy!!
